@@ -1,4 +1,4 @@
-package com.abanoub.weather.ui.theme
+package com.abanoub.weather.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
