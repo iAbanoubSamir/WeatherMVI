@@ -1,6 +1,9 @@
-package com.abanoub.weather.ui.theme
+package com.abanoub.weather.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
+
+val DarkBlue = Color(0xFF1B3B5A)
+val DeepBlue = Color(0xFF102840)
 
 val Purple200 = Color(0xFFBB86FC)
 val Purple500 = Color(0xFF6200EE)
