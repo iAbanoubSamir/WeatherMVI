@@ -19,7 +19,7 @@ An Android application that displays the weather in your location for the curren
 - Play Services (Location)
 
 ## API
-Built with api.open-meteo.com API: [api.open-meteo.com/](https://api.open-meteo.com/)
+Built with api.open-meteo.com API: [api.open-meteo.com](https://api.open-meteo.com/)
 <br>
 <br>
 ## Screenshot
