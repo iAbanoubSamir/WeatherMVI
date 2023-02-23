@@ -49,7 +49,7 @@ class WeatherViewModel @Inject constructor(
             } ?: kotlin.run {
                 state = state.copy(
                     isLoading = false,
-                    error = "Could not retrieve location"
+                    error = "Please enable Location."
                 )
             }
         }
